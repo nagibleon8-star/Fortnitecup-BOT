@@ -3,7 +3,7 @@ import json
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
-
+print("webhook",webhook_url)
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 CALENDAR_FILE = "events.ics"
 SENT_FILE = "sent.json"
