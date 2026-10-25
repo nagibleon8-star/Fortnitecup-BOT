@@ -116,7 +116,7 @@ def send_discord(event):
     request = urllib.request.Request(
         WEBHOOK_URL,
         data=json.dumps(message).encode("utf-8"),
-        headers={"Content-Type": "application/json"},
+        headers={"Content-Type": "application/json", "User-Agent": "FortniteCupBot/1.0"},
         method="POST"
     )
 
