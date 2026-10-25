@@ -9,7 +9,7 @@ from urllib.parse import urlencode
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 CITO_API_KEY = os.environ.get("CITO_API_KEY", "")
 
-API_URL = "https://api.citoapi.com/api/v1/fortnite/tournaments"
+API_URL = "https://api.citoapi.com/api/v1/fortnite/tournaments/upcoming"
 
 SENT_FILE = "sent.json"
 VIENNA = ZoneInfo("Europe/Vienna")
