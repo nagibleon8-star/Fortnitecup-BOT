@@ -1,21 +1,26 @@
 import os
 import json
 import urllib.request
+import urllib.error
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
-CALENDAR_FILE = "events.ics"
+CALENDAR_URL = "https://fortnitetracker.com/events.ics?region=EU"
 SENT_FILE = "sent.json"
 
 VIENNA = ZoneInfo("Europe/Vienna")
 
 
 def load_events():
-    with open(CALENDAR_FILE, "r", encoding="utf-8-sig") as file:
-        content = file.read()
+    request = urllib.request.Request(
+        CALENDAR_URL,
+        headers={"User-Agent": "Mozilla/5.0 FortniteCupBot/1.0"}
+    )
 
-    # Zusammengehörige iCal-Zeilen verbinden
+    with urllib.request.urlopen(request, timeout=30) as response:
+        content = response.read().decode("utf-8-sig")
+
     content = content.replace("\r\n", "\n")
     content = content.replace("\n ", "").replace("\n\t", "")
 
@@ -38,7 +43,7 @@ def load_events():
                     return key, value
             return None, None
 
-        date_key, date_value = get_value("DTSTART")
+        _, date_value = get_value("DTSTART")
         _, name = get_value("SUMMARY")
         _, link = get_value("URL")
         _, uid = get_value("UID")
@@ -51,12 +56,10 @@ def load_events():
                 start = datetime.strptime(
                     date_value, "%Y%m%dT%H%M%SZ"
                 ).replace(tzinfo=timezone.utc)
-
             elif "T" in date_value:
                 start = datetime.strptime(
                     date_value, "%Y%m%dT%H%M%S"
                 ).replace(tzinfo=VIENNA)
-
             else:
                 start = datetime.strptime(
                     date_value, "%Y%m%d"
@@ -78,45 +81,47 @@ def load_events():
 def send_discord(event):
     start = event["start"].astimezone(VIENNA)
 
-    message = {
-        "username": "Fortnite Tournaments",
-        "embeds": [{
-            "title": "🏆 " + event["name"],
-            "description": (
-                "Ein Fortnite-Turnier startet "
-                "innerhalb der nächsten 24 Stunden!"
-            ),
-            "color": 3447003,
-            "fields": [
-                {
-                    "name": "📅 Datum",
-                    "value": start.strftime("%d.%m.%Y"),
-                    "inline": True
-                },
-                {
-                    "name": "⏰ Uhrzeit",
-                    "value": start.strftime("%H:%M") + " Uhr",
-                    "inline": True
-                },
-                {
-                    "name": "🌍 Region",
-                    "value": "Europa",
-                    "inline": True
-                }
-            ],
-            "footer": {
-                "text": "Grinders | Fortnite Cups"
+    embed = {
+        "title": "🏆 " + event["name"],
+        "description": "Ein Fortnite-Turnier startet innerhalb der nächsten 24 Stunden!",
+        "color": 3447003,
+        "fields": [
+            {
+                "name": "📅 Datum",
+                "value": start.strftime("%d.%m.%Y"),
+                "inline": True
+            },
+            {
+                "name": "⏰ Uhrzeit",
+                "value": start.strftime("%H:%M") + " Uhr",
+                "inline": True
+            },
+            {
+                "name": "🌍 Region",
+                "value": "Europa",
+                "inline": True
             }
-        }]
+        ],
+        "footer": {
+            "text": "Grinder | Fortnite Cups"
+        }
     }
 
     if event["link"].startswith("https://"):
-        message["embeds"][0]["url"] = event["link"]
+        embed["url"] = event["link"]
+
+    message = {
+        "username": "Fortnite Tournaments",
+        "embeds": [embed]
+    }
 
     request = urllib.request.Request(
         WEBHOOK_URL,
         data=json.dumps(message).encode("utf-8"),
-        headers={"Content-Type": "application/json", "User-Agent": "FortniteCupBot/1.0"},
+        headers={
+            "Content-Type": "application/json",
+            "User-Agent": "FortniteCupBot/1.0"
+        },
         method="POST"
     )
 
@@ -126,33 +131,32 @@ def send_discord(event):
 
 def main():
     if not WEBHOOK_URL:
-        print("DISCORD_WEBHOOK_URL fehlt.")
-        return
+        raise RuntimeError("DISCORD_WEBHOOK_URL fehlt in GitHub Secrets.")
 
-    if not os.path.exists(CALENDAR_FILE):
-        print("events.ics fehlt.")
-        return
+    events = load_events()
 
     sent = []
-
     if os.path.exists(SENT_FILE):
-        with open(SENT_FILE, "r", encoding="utf-8") as file:
-            sent = json.load(file)
+        try:
+            with open(SENT_FILE, "r", encoding="utf-8") as file:
+                sent = json.load(file)
+        except (json.JSONDecodeError, OSError):
+            sent = []
 
     now = datetime.now(timezone.utc)
     deadline = now + timedelta(hours=24)
+    sent_ids = set(sent)
 
-    for event in load_events():
+    for event in events:
         start = event["start"].astimezone(timezone.utc)
 
-        if now <= start <= deadline:
-            if event["id"] not in sent:
-                send_discord(event)
-                sent.append(event["id"])
-                print("Angekündigt:", event["name"])
+        if now <= start <= deadline and event["id"] not in sent_ids:
+            send_discord(event)
+            sent_ids.add(event["id"])
+            print("Angekündigt:", event["name"])
 
     with open(SENT_FILE, "w", encoding="utf-8") as file:
-        json.dump(sent, file, indent=2)
+        json.dump(sorted(sent_ids), file, indent=2)
 
 
 if __name__ == "__main__":
