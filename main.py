@@ -62,7 +62,7 @@ def fetch_tournaments():
         )
 
     print(f"Cito API: {len(data)} Turniere erhalten.")
-
+print("Beispiel-Turnier:", json.dumps(data[0], indent=2) if data else "Keine Daten")
     return data
 
 
