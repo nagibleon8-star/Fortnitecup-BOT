@@ -1,0 +1,2186 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:FortniteTracker Events Calendar - EU
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_Bog_Official?window=BOG_DAY1\n\nThe road to glory leads to Copenhagen.
+  On October 24–25\, 2026\, the world's top 16 mobile players will gather 
+ at BLAST Studios in Denmark for the Fortnite Mobile Series LAN Championsh
+ ip. After months of fierce competition\, the best players from across the
+  globe will face off on LAN in Reload Solos\, battling for the ultimate t
+ itle. Every elimination matters. Every placement counts. Only one player 
+ will rise above the rest and be crowned the 2026 Fortnite Mobile Series C
+ hampion.
+DTEND:20261024T215900Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261023T220000Z
+SEQUENCE:0
+SUMMARY:[EU]  Mobile Test Cup   Day 1
+TRANSP:TRANSPARENT
+UID:epicgames_Bog_Official-BOG_DAY1@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_Bog_Official?window=BOG_D
+ AY1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_Bog_Official?window=BOG_DAY2\n\nThe road to glory leads to Copenhagen.
+  On October 24–25\, 2026\, the world's top 16 mobile players will gather 
+ at BLAST Studios in Denmark for the Fortnite Mobile Series LAN Championsh
+ ip. After months of fierce competition\, the best players from across the
+  globe will face off on LAN in Reload Solos\, battling for the ultimate t
+ itle. Every elimination matters. Every placement counts. Only one player 
+ will rise above the rest and be crowned the 2026 Fortnite Mobile Series C
+ hampion.
+DTEND:20261025T215900Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261024T220000Z
+SEQUENCE:0
+SUMMARY:[EU]  Mobile Test Cup   Day 2
+TRANSP:TRANSPARENT
+UID:epicgames_Bog_Official-BOG_DAY2@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_Bog_Official?window=BOG_D
+ AY2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_InoxtagIconMobileCup_EU?window=S42_InoxtagIconMobileCup_EU\n\nThe 
+ iconic Inoxtag is joining the Icon Series! Take on the challenge in the I
+ noxtag Icon Cup for a chance to earn Inoxtag cosmetic rewards. Push your 
+ limits\, aim for the top\, and make your mark on the road to victory. Goo
+ d luck and have fun!
+DTEND:20261025T181500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261025T170000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Inoxtag Icon Mobile Cup  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_InoxtagIconMobileCup_EU-S42_InoxtagIconMobileCup_EU@fort
+ nitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_InoxtagIconMobileCup_
+ EU?window=S42_InoxtagIconMobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_InoxtagIconCup_EU?window=S42_InoxtagIconCup_EU\n\nThe iconic Inoxt
+ ag is joining the Icon Series! Duo up and take on the challenge in the In
+ oxtag Icon Cup for a chance to earn Inoxtag cosmetic rewards. Push your l
+ imits\, aim for the top\, and make your mark on the road to victory. Good
+  luck and have fun!
+DTEND:20261025T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261025T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  Inoxtag Icon Cup Battle Royale Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_InoxtagIconCup_EU-S42_InoxtagIconCup_EU@fortnitetracker.
+ com
+URL:https://fortnitetracker.com/events/epicgames_S42_InoxtagIconCup_EU?win
+ dow=S42_InoxtagIconCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_InoxtagIconCup_ZB_EU?window=S42_InoxtagIconCup_ZB_EU\n\nThe iconic
+  Inoxtag is joining the Icon Series! Duo up and take on the challenge in 
+ the Inoxtag Icon Cup for a chance to earn Inoxtag cosmetic rewards. Push 
+ your limits\, aim for the top\, and make your mark on the road to victory
+ . Good luck and have fun!
+DTEND:20261025T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261025T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  Inoxtag Icon Cup Zero Build Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_InoxtagIconCup_ZB_EU-S42_InoxtagIconCup_ZB_EU@fortnitetr
+ acker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_InoxtagIconCup_ZB_EU?
+ window=S42_InoxtagIconCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSolo_Final_EU?window=S42_FNCSSolo_Final_Day1_EU\n\nThe road en
+ ds at the FNCS Solos Finals! The best players from each region will compe
+ te in one final three-hour session featuring up to six matches. After all
+  six matches conclude\, the final leaderboard will determine the top play
+ ers in each region and the distribution of cash prizes. It all comes down
+  to this—good luck and have fun!
+DTEND:20261026T204000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261026T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Finals   Day 1 Finals
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSolo_Final_EU-S42_FNCSSolo_Final_Day1_EU@fortnitetra
+ cker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSolo_Final_EU?win
+ dow=S42_FNCSSolo_Final_Day1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSolo_Final_EU?window=S42_FNCSSolo_Final_Day2_EU\n\nThe road en
+ ds at the FNCS Solos Finals! The best players from each region will compe
+ te in one final three-hour session featuring up to six matches. After all
+  six matches conclude\, the final leaderboard will determine the top play
+ ers in each region and the distribution of cash prizes. It all comes down
+  to this—good luck and have fun!
+DTEND:20261027T204000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261027T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Finals   Day 2 Finals
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSolo_Final_EU-S42_FNCSSolo_Final_Day2_EU@fortnitetra
+ cker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSolo_Final_EU?win
+ dow=S42_FNCSSolo_Final_Day2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReloadQualifiers_EU?window=S43_FNCSSoloReloadQualifiers_Qu
+ al1Round1Day1_EU\n\nDrop into the FNCS Solos Reload! The competition kick
+ s off with Round 1\, featuring two sessions—Day 1 and Day 2. Eligible pla
+ yers must rank within the top 200\,000 on the Global Power Rankings Leade
+ rboard. Players ranked in the top 1\,000 Global PR may skip Round 1 and a
+ utomatically qualify for Round 2\; however\, choosing to compete in Round
+  1 forfeits that automatic qualification. After both Round 1 sessions con
+ clude\, scores from Day 1 and Day 2 will be combined. The top players on 
+ the cumulative leaderboard will advance to Round 2: Top 4\,000 EU\; Top 2
+ \,000 NAC\; and Top 1\,000 OCE\, ASIA\, ME\, BR\, and NAW. Round 2 featur
+ es the players who advanced from Round 1 alongside eligible Top 1\,000 Gl
+ obal PR players who skipped Round 1. At the end of Round 2\, the top 500 
+ players in each region will advance to Round 3. Round 3 is the final roun
+ d of the Qualifier\, with the top 80 players in each region advancing dir
+ ectly to the Heats. Players who competed in the Qualifier but did not adv
+ ance to the Heats will still have another opportunity to qualify through 
+ the Last Chance Qualifier (LCQ). Good luck and have fun!
+DTEND:20261103T203000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261103T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Qualifiers   Day 1 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReloadQualifiers_EU-S43_FNCSSoloReloadQualifiers
+ _Qual1Round1Day1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReloadQualifi
+ ers_EU?window=S43_FNCSSoloReloadQualifiers_Qual1Round1Day1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReloadQualifiers_EU?window=S43_FNCSSoloReloadQualifiers_Qu
+ al1Round1Day2_EU\n\nDrop into the FNCS Solos Reload! The competition kick
+ s off with Round 1\, featuring two sessions—Day 1 and Day 2. Eligible pla
+ yers must rank within the top 200\,000 on the Global Power Rankings Leade
+ rboard. Players ranked in the top 1\,000 Global PR may skip Round 1 and a
+ utomatically qualify for Round 2\; however\, choosing to compete in Round
+  1 forfeits that automatic qualification. After both Round 1 sessions con
+ clude\, scores from Day 1 and Day 2 will be combined. The top players on 
+ the cumulative leaderboard will advance to Round 2: Top 4\,000 EU\; Top 2
+ \,000 NAC\; and Top 1\,000 OCE\, ASIA\, ME\, BR\, and NAW. Round 2 featur
+ es the players who advanced from Round 1 alongside eligible Top 1\,000 Gl
+ obal PR players who skipped Round 1. At the end of Round 2\, the top 500 
+ players in each region will advance to Round 3. Round 3 is the final roun
+ d of the Qualifier\, with the top 80 players in each region advancing dir
+ ectly to the Heats. Players who competed in the Qualifier but did not adv
+ ance to the Heats will still have another opportunity to qualify through 
+ the Last Chance Qualifier (LCQ). Good luck and have fun!
+DTEND:20261104T203000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261104T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Qualifiers   Day 2 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReloadQualifiers_EU-S43_FNCSSoloReloadQualifiers
+ _Qual1Round1Day2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReloadQualifi
+ ers_EU?window=S43_FNCSSoloReloadQualifiers_Qual1Round1Day2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReloadQualifiers_EU?window=S43_FNCSSoloReloadQualifiers_Qu
+ al1Round2_EU\n\nDrop into the FNCS Solos Reload! The competition kicks of
+ f with Round 1\, featuring two sessions—Day 1 and Day 2. Eligible players
+  must rank within the top 200\,000 on the Global Power Rankings Leaderboa
+ rd. Players ranked in the top 1\,000 Global PR may skip Round 1 and autom
+ atically qualify for Round 2\; however\, choosing to compete in Round 1 f
+ orfeits that automatic qualification. After both Round 1 sessions conclud
+ e\, scores from Day 1 and Day 2 will be combined. The top players on the 
+ cumulative leaderboard will advance to Round 2: Top 4\,000 EU\; Top 2\,00
+ 0 NAC\; and Top 1\,000 OCE\, ASIA\, ME\, BR\, and NAW. Round 2 features t
+ he players who advanced from Round 1 alongside eligible Top 1\,000 Global
+  PR players who skipped Round 1. At the end of Round 2\, the top 500 play
+ ers in each region will advance to Round 3. Round 3 is the final round of
+  the Qualifier\, with the top 80 players in each region advancing directl
+ y to the Heats. Players who competed in the Qualifier but did not advance
+  to the Heats will still have another opportunity to qualify through the 
+ Last Chance Qualifier (LCQ). Good luck and have fun!
+DTEND:20261107T203000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261107T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Qualifiers   Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReloadQualifiers_EU-S43_FNCSSoloReloadQualifiers
+ _Qual1Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReloadQualifi
+ ers_EU?window=S43_FNCSSoloReloadQualifiers_Qual1Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReloadQualifiers_EU?window=S43_FNCSSoloReloadQualifiers_Qu
+ al1Round3_EU\n\nDrop into the FNCS Solos Reload! The competition kicks of
+ f with Round 1\, featuring two sessions—Day 1 and Day 2. Eligible players
+  must rank within the top 200\,000 on the Global Power Rankings Leaderboa
+ rd. Players ranked in the top 1\,000 Global PR may skip Round 1 and autom
+ atically qualify for Round 2\; however\, choosing to compete in Round 1 f
+ orfeits that automatic qualification. After both Round 1 sessions conclud
+ e\, scores from Day 1 and Day 2 will be combined. The top players on the 
+ cumulative leaderboard will advance to Round 2: Top 4\,000 EU\; Top 2\,00
+ 0 NAC\; and Top 1\,000 OCE\, ASIA\, ME\, BR\, and NAW. Round 2 features t
+ he players who advanced from Round 1 alongside eligible Top 1\,000 Global
+  PR players who skipped Round 1. At the end of Round 2\, the top 500 play
+ ers in each region will advance to Round 3. Round 3 is the final round of
+  the Qualifier\, with the top 80 players in each region advancing directl
+ y to the Heats. Players who competed in the Qualifier but did not advance
+  to the Heats will still have another opportunity to qualify through the 
+ Last Chance Qualifier (LCQ). Good luck and have fun!
+DTEND:20261108T203000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261108T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Qualifiers   Round 3
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReloadQualifiers_EU-S43_FNCSSoloReloadQualifiers
+ _Qual1Round3_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReloadQualifi
+ ers_EU?window=S43_FNCSSoloReloadQualifiers_Qual1Round3_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReload_HeatsStage_EU?window=S43_FNCSSoloReload_HeatsStage_
+ Heat1_EU\n\nHeat up your path to the FNCS Solos Reload Final! The Heats b
+ ring together 80 players per region who advanced from Round 3 of the Qual
+ ifier. Players will be split across two Heats\, with 40 players competing
+  in each Heat. Each Heat features eight matches. Each match offers a dire
+ ct path to the Final: the player who earns a Victory Royale automatically
+  advances to the FNCS Solos Reload Final. A player who has already secure
+ d a spot in the Final through a Victory Royale cannot earn another Final 
+ spot by winning another match. After each Heat concludes\, the top seven 
+ highest-scoring players who did not earn a Victory Royale will also advan
+ ce to the Final\, bringing the total to 15 players from each Heat. The ne
+ xt 10 players from each Heat who did not qualify for the Final will earn 
+ a bye directly to the Last Chance Qualifier Final. Good luck and have fun
+ !
+DTEND:20261114T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261114T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Heats   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReload_HeatsStage_EU-S43_FNCSSoloReload_HeatsSta
+ ge_Heat1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReload_HeatsS
+ tage_EU?window=S43_FNCSSoloReload_HeatsStage_Heat1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReload_HeatsStage_EU?window=S43_FNCSSoloReload_HeatsStage_
+ Heat2_EU\n\nHeat up your path to the FNCS Solos Reload Final! The Heats b
+ ring together 80 players per region who advanced from Round 3 of the Qual
+ ifier. Players will be split across two Heats\, with 40 players competing
+  in each Heat. Each Heat features eight matches. Each match offers a dire
+ ct path to the Final: the player who earns a Victory Royale automatically
+  advances to the FNCS Solos Reload Final. A player who has already secure
+ d a spot in the Final through a Victory Royale cannot earn another Final 
+ spot by winning another match. After each Heat concludes\, the top seven 
+ highest-scoring players who did not earn a Victory Royale will also advan
+ ce to the Final\, bringing the total to 15 players from each Heat. The ne
+ xt 10 players from each Heat who did not qualify for the Final will earn 
+ a bye directly to the Last Chance Qualifier Final. Good luck and have fun
+ !
+DTEND:20261115T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261115T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Heats   Session 2
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReload_HeatsStage_EU-S43_FNCSSoloReload_HeatsSta
+ ge_Heat2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReload_HeatsS
+ tage_EU?window=S43_FNCSSoloReload_HeatsStage_Heat2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReload_LastChanceQualifier_EU?window=S43_FNCSSoloReload_La
+ stChanceQualifier_EU\n\nKeep your FNCS Solos Reload journey alive in the 
+ Last Chance Qualifier! LCQ Round 1 is open to players who participated in
+  the FNCS Solos Reload Qualifier and have not already advanced to the LCQ
+  Final or the FNCS Solos Reload Final. After LCQ Round 1 concludes\, the 
+ top 20 players in each region will advance to the LCQ Final\, where they 
+ will join 20 players who earned a bye through the Heats\, creating a 40-p
+ layer lobby. The LCQ Final features five matches. Every match provides a 
+ direct path to the Final: the player who earns the Victory Royale will im
+ mediately qualify for the FNCS Solos Reload Final. A player who has alrea
+ dy secured a Final spot through a Victory Royale cannot earn a second Vic
+ tory Royale qualification spot. After the LCQ Final concludes\, the next 
+ five highest-scoring players who have not earned a Victory Royale will al
+ so advance to the FNCS Solos Reload Final\, for a total of 10 qualifying 
+ players from the LCQ Final. This is your last chance to secure a spot—goo
+ d luck and have fun!
+DTEND:20261116T203000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261116T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Last Chance Qualifier   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReload_LastChanceQualifier_EU-S43_FNCSSoloReload
+ _LastChanceQualifier_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReload_LastCh
+ anceQualifier_EU?window=S43_FNCSSoloReload_LastChanceQualifier_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReload_LastChanceQualifier_EU?window=S43_FNCSSoloReload_La
+ stChanceLobby_EU\n\nKeep your FNCS Solos Reload journey alive in the Last
+  Chance Qualifier! LCQ Round 1 is open to players who participated in the
+  FNCS Solos Reload Qualifier and have not already advanced to the LCQ Fin
+ al or the FNCS Solos Reload Final. After LCQ Round 1 concludes\, the top 
+ 20 players in each region will advance to the LCQ Final\, where they will
+  join 20 players who earned a bye through the Heats\, creating a 40-playe
+ r lobby. The LCQ Final features five matches. Every match provides a dire
+ ct path to the Final: the player who earns the Victory Royale will immedi
+ ately qualify for the FNCS Solos Reload Final. A player who has already s
+ ecured a Final spot through a Victory Royale cannot earn a second Victory
+  Royale qualification spot. After the LCQ Final concludes\, the next five
+  highest-scoring players who have not earned a Victory Royale will also a
+ dvance to the FNCS Solos Reload Final\, for a total of 10 qualifying play
+ ers from the LCQ Final. This is your last chance to secure a spot—good lu
+ ck and have fun!
+DTEND:20261117T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261117T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Last Chance Qualifier   Session 2
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReload_LastChanceQualifier_EU-S43_FNCSSoloReload
+ _LastChanceLobby_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReload_LastCh
+ anceQualifier_EU?window=S43_FNCSSoloReload_LastChanceLobby_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S43_FNCSSoloReload_Final_EU?window=S43_FNCSSoloReload_Final_EU\n\nThe 
+ road ends at the FNCS Solos Reload Final! The top 40 players from each re
+ gion will compete in the Final\, with 30 players qualifying through the H
+ eats and 10 players qualifying through the Last Chance Qualifier. Each re
+ gional Final features 10 matches. After all 10 matches conclude\, the fin
+ al leaderboard will determine the final placements and distribution of ca
+ sh prizes\, with all 40 players earning a prize based on their placement.
+  It all comes down to this—good luck and have fun!
+DTEND:20261121T214500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261121T180000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Reload Finals   Finals
+TRANSP:TRANSPARENT
+UID:epicgames_S43_FNCSSoloReload_Final_EU-S43_FNCSSoloReload_Final_EU@fort
+ nitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S43_FNCSSoloReload_Final_
+ EU?window=S43_FNCSSoloReload_Final_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_HamiKumaCup_EU?window=S42_HamiKumaCup_EU\n\nGet ready for the show
+ ! Compete in the HamiKuma Cup for a chance to earn HamiKuma cosmetic rewa
+ rds. Team up with your partners\, bring your best\, and make every moment
+  count on your way to victory. Good luck and have fun!
+DTEND:20261024T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261024T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  HamiKuma Cup Battle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_HamiKumaCup_EU-S42_HamiKumaCup_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_HamiKumaCup_EU?window
+ =S42_HamiKumaCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_HamiKumaCup_ZB_EU?window=S42_HamiKumaCup_ZB_EU\n\nGet ready for th
+ e show! Compete in the HamiKuma Cup for a chance to earn HamiKuma cosmeti
+ c rewards. Team up with your partners\, bring your best\, and make every 
+ moment count on your way to victory. Good luck and have fun!
+DTEND:20261024T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261024T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  HamiKuma Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_HamiKumaCup_ZB_EU-S42_HamiKumaCup_ZB_EU@fortnitetracker.
+ com
+URL:https://fortnitetracker.com/events/epicgames_S42_HamiKumaCup_ZB_EU?win
+ dow=S42_HamiKumaCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_HamiKumaMobileCup_EU?window=S42_HamiKumaMobileCup_EU\n\nGet ready 
+ for the show! Compete in the HamiKuma Cup for a chance to earn HamiKuma c
+ osmetic rewards. Bring your best\, make every moment count\, and put on a
+  performance worthy of victory. Good luck and have fun!
+DTEND:20261024T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261024T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] HamiKuma Mobile Cup   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_HamiKumaMobileCup_EU-S42_HamiKumaMobileCup_EU@fortnitetr
+ acker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_HamiKumaMobileCup_EU?
+ window=S42_HamiKumaMobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t1_Round1_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261002T190000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261002T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 1 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent1_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event1_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t1_Round2_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261002T204500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261002T200000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 1 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent1_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event1_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t3_Round1_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261012T190000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261012T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 3 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent3_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event3_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t3_Round2_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261012T204500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261012T200000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 3 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent3_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event3_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t4_Round1_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261016T190000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261016T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 4 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent4_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event4_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t4_Round2_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261016T204500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261016T200000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 4 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent4_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event4_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t5_Round1_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261023T190000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261023T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 5 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent5_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event5_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ReloadReloadSoloVictoryCup_EU?window=S42_ReloadSoloVictoryCup_Even
+ t5_Round2_EU\n\nBattle your way to Platinum in Reload Ranked to be eligib
+ le for the first and second Events of the Season\, Diamond for the third\
+ , and Champion for the final Event of the Season! Compete for the opportu
+ nity to win a cash prize! Reach Round 2 (top 1600 in EU\; top 800 in NAC\
+ ; top 320 in OCE\, ASIA\, ME\, BR\, and NAW)\, where every player who ear
+ ns a Victory Royale will earn $100 USD. Good luck and have fun!
+DTEND:20261023T204500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261023T200000Z
+SEQUENCE:0
+SUMMARY:[EU]  Solo Reload Victory Cup   Event 5 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ReloadReloadSoloVictoryCup_EU-S42_ReloadSoloVictoryCup_E
+ vent5_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ReloadReloadSoloVicto
+ ryCup_EU?window=S42_ReloadSoloVictoryCup_Event5_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt6Round1_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261001T180000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261001T160000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 6 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event6Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event6Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt6Round2_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261001T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261001T190000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 6 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event6Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event6Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt7Round1_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261008T180000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261008T160000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 7 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event7Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event7Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt7Round2_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261008T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261008T190000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 7 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event7Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event7Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt8Round1_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261015T180000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261015T160000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 8 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event8Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event8Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt8Round2_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261015T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261015T190000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 8 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event8Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event8Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt9Round1_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261022T180000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261022T160000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 9 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event9Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event9Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PerformanceEvaluationTrios_EU?window=S42_PerformanceEvaluation_Eve
+ nt9Round2_EU\n\nYou must be FNCS Division 1 or in the top 5\,000 of the o
+ verall Power Rankings Leaderboard to participate in this event. This even
+ t is testing our tournament system and game performance at the highest le
+ vel of competition for the latest update. As we're gathering performance 
+ data actively during the event\, you may experience moments of low perfor
+ mance. This event will occur over two rounds\, with the top 33 teams adva
+ ncing to Round 2. Cash prizes will be awarded to top players at the concl
+ usion of Round 2's test event.
+DTEND:20261022T210000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261022T190000Z
+SEQUENCE:0
+SUMMARY:[EU]  Fortnite Performance Evaluation  Event 9 Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PerformanceEvaluationTrios_EU-S42_PerformanceEvaluation_
+ Event9Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PerformanceEvaluation
+ Trios_EU?window=S42_PerformanceEvaluation_Event9Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_SlenderManCup_EU?window=S42_SlenderManCup_EU\n\nSomething is lurki
+ ng in the shadows. Compete in the Slender Man Cup for a chance to earn Sl
+ ender Man cosmetic rewards. Face the unknown\, stay one step ahead\, and 
+ prove you have what it takes to reach the end. Good luck and have fun!
+DTEND:20261020T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261020T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Slender Man Cup Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_SlenderManCup_EU-S42_SlenderManCup_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_SlenderManCup_EU?wind
+ ow=S42_SlenderManCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_SlenderManCup_ZB_EU?window=S42_SlenderManCup_ZB_EU\n\nSomething is
+  lurking in the shadows. Compete in the Slender Man Cup for a chance to e
+ arn Slender Man cosmetic rewards. Face the unknown\, stay one step ahead\
+ , and prove you have what it takes to reach the end. Good luck and have f
+ un!
+DTEND:20261020T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261020T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Slender Man Cup Zero Build Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_SlenderManCup_ZB_EU-S42_SlenderManCup_ZB_EU@fortnitetrac
+ ker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_SlenderManCup_ZB_EU?w
+ indow=S42_SlenderManCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSolo_LastChanceQualifier_EU?window=S42_FNCSSolo_LastChanceQual
+ ifier_EU\n\nKeep your FNCS Solos journey alive in the Last Chance Qualifi
+ er! LCQ Round 1 is open to eligible players who participated in an FNCS S
+ olos Qualifier Round 1 session but have not already advanced to the LCQ F
+ inal or the FNCS Solos Finals. Players will compete in a single three-hou
+ r session with up to 11 matches. After the session concludes\, the top 70
+  players in each region will advance to the LCQ Final. The LCQ Final last
+ s approximately two and a half hours and features up to five matches. Eve
+ ry match provides a direct path to the Finals: the player who earns the V
+ ictory Royale will receive 1\,000 points and immediately qualify for the 
+ FNCS Solos Finals. Once qualified through a Victory Royale\, that player 
+ may not compete in any remaining LCQ Final matches. After the LCQ Final c
+ oncludes\, the next 17 highest-scoring players who have not earned a Vict
+ ory Royale will also advance to the FNCS Solos Finals. This is your last 
+ chance to secure a spot—good luck and have fun!
+DTEND:20261019T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261019T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Last Chance Qualifier   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSolo_LastChanceQualifier_EU-S42_FNCSSolo_LastChanceQ
+ ualifier_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSolo_LastChanceQu
+ alifier_EU?window=S42_FNCSSolo_LastChanceQualifier_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSolo_LastChanceQualifier_EU?window=S42_FNCSSolo_LastChanceLobb
+ y_EU\n\nKeep your FNCS Solos journey alive in the Last Chance Qualifier! 
+ LCQ Round 1 is open to eligible players who participated in an FNCS Solos
+  Qualifier Round 1 session but have not already advanced to the LCQ Final
+  or the FNCS Solos Finals. Players will compete in a single three-hour se
+ ssion with up to 11 matches. After the session concludes\, the top 70 pla
+ yers in each region will advance to the LCQ Final. The LCQ Final lasts ap
+ proximately two and a half hours and features up to five matches. Every m
+ atch provides a direct path to the Finals: the player who earns the Victo
+ ry Royale will receive 1\,000 points and immediately qualify for the FNCS
+  Solos Finals. Once qualified through a Victory Royale\, that player may 
+ not compete in any remaining LCQ Final matches. After the LCQ Final concl
+ udes\, the next 17 highest-scoring players who have not earned a Victory 
+ Royale will also advance to the FNCS Solos Finals. This is your last chan
+ ce to secure a spot—good luck and have fun!
+DTEND:20261020T191000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261020T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Last Chance Qualifier   Session 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSolo_LastChanceQualifier_EU-S42_FNCSSolo_LastChanceL
+ obby_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSolo_LastChanceQu
+ alifier_EU?window=S42_FNCSSolo_LastChanceLobby_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_SlenderManCup_Mobile_EU?window=S42_SlenderManMobileCup_EU\n\nSomet
+ hing is lurking in the shadows. Compete in the Slender Man Cup for a chan
+ ce to earn Slender Man cosmetic rewards. Face the unknown\, stay one step
+  ahead\, and prove you have what it takes to reach the end. Good luck and
+  have fun!
+DTEND:20261020T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261020T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Slender Man Mobile Cup   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_SlenderManCup_Mobile_EU-S42_SlenderManMobileCup_EU@fortn
+ itetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_SlenderManCup_Mobile_
+ EU?window=S42_SlenderManMobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileTestCup_EU?window=S42_MobileTestCup_Event1_EU\n\nGet ready f
+ or the Mobile Test Cup! This test tournament give mobile players a chance
+  to jump into the action and put their skills to the test. Please note th
+ at this is test event\, and no prizes will be awarded. Drop in\, test you
+ r skills\, and get ready for the competition! Good luck and have fun!
+DTEND:20261015T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261015T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Test Cup   Event 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileTestCup_EU-S42_MobileTestCup_Event1_EU@fortnitetra
+ cker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileTestCup_EU?wind
+ ow=S42_MobileTestCup_Event1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileTestCup_EU?window=S42_MobileTestCup_Event2_EU\n\nGet ready f
+ or the Mobile Test Cup! This test tournament give mobile players a chance
+  to jump into the action and put their skills to the test. Please note th
+ at this is test event\, and no prizes will be awarded. Drop in\, test you
+ r skills\, and get ready for the competition! Good luck and have fun!
+DTEND:20261016T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261016T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Test Cup   Event 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileTestCup_EU-S42_MobileTestCup_Event2_EU@fortnitetra
+ cker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileTestCup_EU?wind
+ ow=S42_MobileTestCup_Event2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileTestCup_EU?window=S42_MobileTestCup_Event3_EU\n\nGet ready f
+ or the Mobile Test Cup! This test tournament give mobile players a chance
+  to jump into the action and put their skills to the test. Please note th
+ at this is test event\, and no prizes will be awarded. Drop in\, test you
+ r skills\, and get ready for the competition! Good luck and have fun!
+DTEND:20261019T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261019T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Test Cup   Event 3
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileTestCup_EU-S42_MobileTestCup_Event3_EU@fortnitetra
+ cker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileTestCup_EU?wind
+ ow=S42_MobileTestCup_Event3_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ChampionTealKnightFNCSCup_EU?window=S42_ChampionTealKnightFNCSCup_
+ EU\n\nAnswer the call. Fight for glory. Compete in the Champion Teal Knig
+ ht FNCS Cup for a chance to earn Champion Teal Knight cosmetic rewards. P
+ ut your skills to the test\, rise to the challenge\, and forge your path 
+ to victory. Good luck and have fun!
+DTEND:20261018T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261018T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Champion Teal Knight FNCS Cup Battle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ChampionTealKnightFNCSCup_EU-S42_ChampionTealKnightFNCSC
+ up_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ChampionTealKnightFNC
+ SCup_EU?window=S42_ChampionTealKnightFNCSCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ChampionTealKnightFNCSCup_ZB_EU?window=S42_ChampionTealKnightFNCSC
+ up_ZB_EU\n\nAnswer the call. Fight for glory. Compete in the Champion Tea
+ l Knight FNCS Cup for a chance to earn Champion Teal Knight cosmetic rewa
+ rds. Put your skills to the test\, rise to the challenge\, and forge your
+  path to victory. Good luck and have fun!
+DTEND:20261018T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261018T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Champion Teal Knight FNCS Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ChampionTealKnightFNCSCup_ZB_EU-S42_ChampionTealKnightFN
+ CSCup_ZB_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ChampionTealKnightFNC
+ SCup_ZB_EU?window=S42_ChampionTealKnightFNCSCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ChampionTealKnightFNCSCup_Mobile_EU?window=S42_ChampionTealKnightF
+ NCSCup_Mobile_EU\n\nAnswer the call. Fight for glory. Compete in the Cham
+ pion Teal Knight FNCS Cup for a chance to earn Champion Teal Knight cosme
+ tic rewards. Put your skills to the test\, rise to the challenge\, and fo
+ rge your path to victory. Good luck and have fun!
+DTEND:20261018T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261018T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Champion Teal Knight FNCS Mobile Cup   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ChampionTealKnightFNCSCup_Mobile_EU-S42_ChampionTealKnig
+ htFNCSCup_Mobile_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ChampionTealKnightFNC
+ SCup_Mobile_EU?window=S42_ChampionTealKnightFNCSCup_Mobile_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSolo_HeatsStage_EU?window=S42_FNCSSolo_HeatsStage_Heat1_EU\n\n
+ Heat up your path to the FNCS Solos Finals! The Heats bring together 200 
+ players per region: 92 players from the Fast Track and 108 players from Q
+ ualifier 2. Players will be seeded across two Heats based on their respec
+ tive leaderboard placements\, with 100 players competing in each Heat. Ea
+ ch Heat lasts approximately three hours and features up to six matches. E
+ very match offers a direct path to the Finals: the player who earns the V
+ ictory Royale will receive 1\,000 points and immediately qualify for the 
+ FNCS Solos Finals. Once qualified through a Victory Royale\, that player 
+ may not compete in any remaining Heat matches. After each Heat concludes\
+ , the next 29 highest-scoring players who have not earned a Victory Royal
+ e will also advance to the Finals. Players finishing 36th through 50th on
+  the Heat leaderboard will advance to the Last Chance Qualifier Final. Go
+ od luck and have fun!
+DTEND:20261017T154000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261017T130000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Heats   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSolo_HeatsStage_EU-S42_FNCSSolo_HeatsStage_Heat1_EU@
+ fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSolo_HeatsStage_E
+ U?window=S42_FNCSSolo_HeatsStage_Heat1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSolo_HeatsStage_EU?window=S42_FNCSSolo_HeatsStage_Heat2_EU\n\n
+ Heat up your path to the FNCS Solos Finals! The Heats bring together 200 
+ players per region: 92 players from the Fast Track and 108 players from Q
+ ualifier 2. Players will be seeded across two Heats based on their respec
+ tive leaderboard placements\, with 100 players competing in each Heat. Ea
+ ch Heat lasts approximately three hours and features up to six matches. E
+ very match offers a direct path to the Finals: the player who earns the V
+ ictory Royale will receive 1\,000 points and immediately qualify for the 
+ FNCS Solos Finals. Once qualified through a Victory Royale\, that player 
+ may not compete in any remaining Heat matches. After each Heat concludes\
+ , the next 29 highest-scoring players who have not earned a Victory Royal
+ e will also advance to the Finals. Players finishing 36th through 50th on
+  the Heat leaderboard will advance to the Last Chance Qualifier Final. Go
+ od luck and have fun!
+DTEND:20261018T154000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261018T130000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Heats   Session 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSolo_HeatsStage_EU-S42_FNCSSolo_HeatsStage_Heat2_EU@
+ fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSolo_HeatsStage_E
+ U?window=S42_FNCSSolo_HeatsStage_Heat2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PurgeCup_EU?window=S42_PurgeCup_EU\n\nSurvive the night. Stand you
+ r ground. Compete in the Lady Liberty Cup for a chance to earn Lady Liber
+ ty cosmetic rewards. Face the competition\, fight to the finish\, and pro
+ ve you have what it takes to make it through the night. Good luck and hav
+ e fun!
+DTEND:20261017T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261017T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Lady Liberty Cup Battle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PurgeCup_EU-S42_PurgeCup_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PurgeCup_EU?window=S4
+ 2_PurgeCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PurgeCup_ZB_EU?window=S42_PurgeCup_ZB_EU\n\nSurvive the night. Sta
+ nd your ground. Compete in the Lady Liberty Cup for a chance to earn Lady
+  Liberty cosmetic rewards. Face the competition\, fight to the finish\, a
+ nd prove you have what it takes to make it through the night. Good luck a
+ nd have fun!
+DTEND:20261017T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261017T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Lady Liberty Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PurgeCup_ZB_EU-S42_PurgeCup_ZB_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PurgeCup_ZB_EU?window
+ =S42_PurgeCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event1
+ _Round1_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20260919T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260919T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 1 R
+ ound 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt1_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event1_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event1
+ _Round2_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20260919T191000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260919T180000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 1 R
+ ound 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt1_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event1_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event2
+ _Round1_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20260926T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260926T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 2 R
+ ound 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt2_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event2_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event2
+ _Round2_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20260926T191000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260926T180000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 2 R
+ ound 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt2_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event2_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event3
+ _Round1_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20261003T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261003T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 3 R
+ ound 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt3_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event3_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event3
+ _Round2_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20261003T191000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261003T180000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 3 R
+ ound 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt3_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event3_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event4
+ _Round1_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20261010T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261010T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 4 R
+ ound 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt4_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event4_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event4
+ _Round2_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20261010T191000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261010T180000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 4 R
+ ound 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt4_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event4_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event5
+ _Round1_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20261017T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261017T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 5 R
+ ound 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt5_Round1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event5_Round1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileVictoryCup_ReloadminiV_EU?window=S42_MobileVictoryCup_Event5
+ _Round2_EU\n\nGo Go Go! Battle your way to Platinum in Reload Ranked in e
+ ither the previous or current season to be eligible for this tournament! 
+ Reach Round 2 (top 176 in EU\; top 144 in NAC\; top 80 in OCE\, ASIA\, ME
+ \, BR\, NAW) where each player who earns a Victory Royale in Round 2 will
+  earn $50 USD - good luck and have fun!
+DTEND:20261017T191000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261017T180000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Reload (Mini Venture) Victory Cup   Event 5 R
+ ound 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileVictoryCup_ReloadminiV_EU-S42_MobileVictoryCup_Eve
+ nt5_Round2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileVictoryCup_Relo
+ adminiV_EU?window=S42_MobileVictoryCup_Event5_Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_EliteKadoThorneCup_EU?window=S42_EliteKadoThorneCup_EU\n\nEmbrace 
+ the darkness. Claim what’s yours. Compete in the Elite Kado Thorne Cup fo
+ r a chance to earn Elite Kado Thorne cosmetic rewards. Outsmart the compe
+ tition\, seize your moment\, and add another triumph to your collection. 
+ Good luck and have fun!
+DTEND:20261013T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261013T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Elite Kado Thorne Cup Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_EliteKadoThorneCup_EU-S42_EliteKadoThorneCup_EU@fortnite
+ tracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_EliteKadoThorneCup_EU
+ ?window=S42_EliteKadoThorneCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual1Round1Day
+ 1_EU\n\nDrop into the FNCS Solos! The competition kicks off with Round 1\
+ , featuring two three-hour sessions—Day 1 and Day 2—with up to 11 matches
+  per session. Eligible players must rank within the top 200\,000 on the o
+ verall Power Rankings Leaderboard. Players ranked in the top 2\,000 may s
+ kip Round 1 and automatically qualify for Round 2\; however\, choosing to
+  compete in Round 1 forfeits that automatic qualification.  After both Ro
+ und 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. T
+ he top players on the cumulative leaderboard will advance to Round 2: Top
+  8\,000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and N
+ AW.  Round 2 consists of one three-hour session with up to 11 matches. At
+  the end of the session\, the top 1\,000 players in each region will adva
+ nce to Round 3.  Round 3 also features one three-hour session with up to 
+ 11 matches. In Qualifier 1\, the top 100 players on the Round 3 leaderboa
+ rd will advance to Fast Track. In Qualifier 2\, the top 108 players will 
+ advance to Heats. Good luck and have fun!
+DTEND:20260928T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260928T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Day 1 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual1Round1
+ Day1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual1Round1Day1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual1Round1Day
+ 2_EU\n\nDrop into the FNCS Solos! The competition kicks off with Round 1\
+ , featuring two three-hour sessions—Day 1 and Day 2—with up to 11 matches
+  per session. Eligible players must rank within the top 200\,000 on the o
+ verall Power Rankings Leaderboard. Players ranked in the top 2\,000 may s
+ kip Round 1 and automatically qualify for Round 2\; however\, choosing to
+  compete in Round 1 forfeits that automatic qualification.  After both Ro
+ und 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. T
+ he top players on the cumulative leaderboard will advance to Round 2: Top
+  8\,000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and N
+ AW.  Round 2 consists of one three-hour session with up to 11 matches. At
+  the end of the session\, the top 1\,000 players in each region will adva
+ nce to Round 3.  Round 3 also features one three-hour session with up to 
+ 11 matches. In Qualifier 1\, the top 100 players on the Round 3 leaderboa
+ rd will advance to Fast Track. In Qualifier 2\, the top 108 players will 
+ advance to Heats. Good luck and have fun!
+DTEND:20260929T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260929T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Day 2 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual1Round1
+ Day2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual1Round1Day2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual1Round2_EU
+ \n\nDrop into the FNCS Solos! The competition kicks off with Round 1\, fe
+ aturing two three-hour sessions—Day 1 and Day 2—with up to 11 matches per
+  session. Eligible players must rank within the top 200\,000 on the overa
+ ll Power Rankings Leaderboard. Players ranked in the top 2\,000 may skip 
+ Round 1 and automatically qualify for Round 2\; however\, choosing to com
+ pete in Round 1 forfeits that automatic qualification.  After both Round 
+ 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. The t
+ op players on the cumulative leaderboard will advance to Round 2: Top 8\,
+ 000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and NAW. 
+  Round 2 consists of one three-hour session with up to 11 matches. At the
+  end of the session\, the top 1\,000 players in each region will advance 
+ to Round 3.  Round 3 also features one three-hour session with up to 11 m
+ atches. In Qualifier 1\, the top 100 players on the Round 3 leaderboard w
+ ill advance to Fast Track. In Qualifier 2\, the top 108 players will adva
+ nce to Heats. Good luck and have fun!
+DTEND:20261003T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261003T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual1Round2
+ _EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual1Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual1Round3_EU
+ \n\nDrop into the FNCS Solos! The competition kicks off with Round 1\, fe
+ aturing two three-hour sessions—Day 1 and Day 2—with up to 11 matches per
+  session. Eligible players must rank within the top 200\,000 on the overa
+ ll Power Rankings Leaderboard. Players ranked in the top 2\,000 may skip 
+ Round 1 and automatically qualify for Round 2\; however\, choosing to com
+ pete in Round 1 forfeits that automatic qualification.  After both Round 
+ 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. The t
+ op players on the cumulative leaderboard will advance to Round 2: Top 8\,
+ 000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and NAW. 
+  Round 2 consists of one three-hour session with up to 11 matches. At the
+  end of the session\, the top 1\,000 players in each region will advance 
+ to Round 3.  Round 3 also features one three-hour session with up to 11 m
+ atches. In Qualifier 1\, the top 100 players on the Round 3 leaderboard w
+ ill advance to Fast Track. In Qualifier 2\, the top 108 players will adva
+ nce to Heats. Good luck and have fun!
+DTEND:20261004T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261004T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Round 3
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual1Round3
+ _EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual1Round3_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual2Round1Day
+ 1_EU\n\nDrop into the FNCS Solos! The competition kicks off with Round 1\
+ , featuring two three-hour sessions—Day 1 and Day 2—with up to 11 matches
+  per session. Eligible players must rank within the top 200\,000 on the o
+ verall Power Rankings Leaderboard. Players ranked in the top 2\,000 may s
+ kip Round 1 and automatically qualify for Round 2\; however\, choosing to
+  compete in Round 1 forfeits that automatic qualification.  After both Ro
+ und 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. T
+ he top players on the cumulative leaderboard will advance to Round 2: Top
+  8\,000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and N
+ AW.  Round 2 consists of one three-hour session with up to 11 matches. At
+  the end of the session\, the top 1\,000 players in each region will adva
+ nce to Round 3.  Round 3 also features one three-hour session with up to 
+ 11 matches. In Qualifier 1\, the top 100 players on the Round 3 leaderboa
+ rd will advance to Fast Track. In Qualifier 2\, the top 108 players will 
+ advance to Heats. Good luck and have fun!
+DTEND:20261005T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261005T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Day 1 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual2Round1
+ Day1_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual2Round1Day1_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual2Round1Day
+ 2_EU\n\nDrop into the FNCS Solos! The competition kicks off with Round 1\
+ , featuring two three-hour sessions—Day 1 and Day 2—with up to 11 matches
+  per session. Eligible players must rank within the top 200\,000 on the o
+ verall Power Rankings Leaderboard. Players ranked in the top 2\,000 may s
+ kip Round 1 and automatically qualify for Round 2\; however\, choosing to
+  compete in Round 1 forfeits that automatic qualification.  After both Ro
+ und 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. T
+ he top players on the cumulative leaderboard will advance to Round 2: Top
+  8\,000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and N
+ AW.  Round 2 consists of one three-hour session with up to 11 matches. At
+  the end of the session\, the top 1\,000 players in each region will adva
+ nce to Round 3.  Round 3 also features one three-hour session with up to 
+ 11 matches. In Qualifier 1\, the top 100 players on the Round 3 leaderboa
+ rd will advance to Fast Track. In Qualifier 2\, the top 108 players will 
+ advance to Heats. Good luck and have fun!
+DTEND:20261006T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261006T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Day 2 Round 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual2Round1
+ Day2_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual2Round1Day2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual2Round2_EU
+ \n\nDrop into the FNCS Solos! The competition kicks off with Round 1\, fe
+ aturing two three-hour sessions—Day 1 and Day 2—with up to 11 matches per
+  session. Eligible players must rank within the top 200\,000 on the overa
+ ll Power Rankings Leaderboard. Players ranked in the top 2\,000 may skip 
+ Round 1 and automatically qualify for Round 2\; however\, choosing to com
+ pete in Round 1 forfeits that automatic qualification.  After both Round 
+ 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. The t
+ op players on the cumulative leaderboard will advance to Round 2: Top 8\,
+ 000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and NAW. 
+  Round 2 consists of one three-hour session with up to 11 matches. At the
+  end of the session\, the top 1\,000 players in each region will advance 
+ to Round 3.  Round 3 also features one three-hour session with up to 11 m
+ atches. In Qualifier 1\, the top 100 players on the Round 3 leaderboard w
+ ill advance to Fast Track. In Qualifier 2\, the top 108 players will adva
+ nce to Heats. Good luck and have fun!
+DTEND:20261010T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261010T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Round 2
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual2Round2
+ _EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual2Round2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloQualifiers_EU?window=S42_FNCSSoloQualifiers_Qual2Round3_EU
+ \n\nDrop into the FNCS Solos! The competition kicks off with Round 1\, fe
+ aturing two three-hour sessions—Day 1 and Day 2—with up to 11 matches per
+  session. Eligible players must rank within the top 200\,000 on the overa
+ ll Power Rankings Leaderboard. Players ranked in the top 2\,000 may skip 
+ Round 1 and automatically qualify for Round 2\; however\, choosing to com
+ pete in Round 1 forfeits that automatic qualification.  After both Round 
+ 1 sessions conclude\, scores from Day 1 and Day 2 will be combined. The t
+ op players on the cumulative leaderboard will advance to Round 2: Top 8\,
+ 000 EU\; Top 4\,000 NAC\; and Top 2\,000 OCE\, ASIA\, ME\, BR\, and NAW. 
+  Round 2 consists of one three-hour session with up to 11 matches. At the
+  end of the session\, the top 1\,000 players in each region will advance 
+ to Round 3.  Round 3 also features one three-hour session with up to 11 m
+ atches. In Qualifier 1\, the top 100 players on the Round 3 leaderboard w
+ ill advance to Fast Track. In Qualifier 2\, the top 108 players will adva
+ nce to Heats. Good luck and have fun!
+DTEND:20261011T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261011T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Qualifiers   Round 3
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloQualifiers_EU-S42_FNCSSoloQualifiers_Qual2Round3
+ _EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloQualifiers_EU
+ ?window=S42_FNCSSoloQualifiers_Qual2Round3_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_FNCSSoloFastTracks_EU?window=S42_FNCSSoloFastTracks_EU\n\nFast-tra
+ ck your way to the FNCS Solos Finals! The Fast Track brings together the 
+ top 100 players from Qualifier 1 for an approximately two-hour session fe
+ aturing four matches. After all four matches conclude\, the top eight pla
+ yers in each region will advance directly to the FNCS Solos Finals. The r
+ emaining 92 players will continue their journey in the FNCS Solos Heats. 
+ Good luck and have fun!
+DTEND:20261010T144500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261010T130000Z
+SEQUENCE:0
+SUMMARY:[EU]  FNCS Solos Fast Track   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_FNCSSoloFastTracks_EU-S42_FNCSSoloFastTracks_EU@fortnite
+ tracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_FNCSSoloFastTracks_EU
+ ?window=S42_FNCSSoloFastTracks_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_StreetFighterCup_EU?window=S42_StreetFighterCup_EU\n\nReady? Fight
+ ! Throw down in the Street Fighter Cup and battle for a chance to earn co
+ smetic rewards. Let’s go\, World Warrior!
+DTEND:20261009T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261009T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Street Fighter Cup Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_StreetFighterCup_EU-S42_StreetFighterCup_EU@fortnitetrac
+ ker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_StreetFighterCup_EU?w
+ indow=S42_StreetFighterCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_StreetFighterCup_ZB_EU?window=S42_StreetFighterCup_ZB_EU\n\nReady?
+  Fight! Throw down in the Street Fighter Cup and battle for a chance to e
+ arn cosmetic rewards. Let’s go\, World Warrior!
+DTEND:20261009T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261009T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Street Fighter Cup Zero Build Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_StreetFighterCup_ZB_EU-S42_StreetFighterCup_ZB_EU@fortni
+ tetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_StreetFighterCup_ZB_E
+ U?window=S42_StreetFighterCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_StreetFighterCup_Mobile_EU?window=S42_StreetFighterMobileCup_EU\n\
+ nReady? Fight! Throw down in the Street Fighter Cup and battle for a chan
+ ce to earn cosmetic rewards. Let’s go\, World Warrior!
+DTEND:20261009T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261009T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Street Fighter Mobile Cup   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_StreetFighterCup_Mobile_EU-S42_StreetFighterMobileCup_EU
+ @fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_StreetFighterCup_Mobi
+ le_EU?window=S42_StreetFighterMobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PSNickEh30_ZB_EU?window=S42_PSNickEh30_ZB_Qualifier_EU\n\nDrop int
+ o the PlayStation NickEh30 Icon Cup! Compete for a chance to earn NickEh3
+ 0 cosmetic rewards. The top players on the leaderboard (top 100 in all re
+ gions) will then be seeded into the Finals where every player who earns a
+  Victory Royale in Finals will earn $1500 USD (in EU)\, $1000 USD (in NAC
+ )\, $500 USD (in BR and NAW) and  $250 USD (in OCE\, ASIA and ME) - good 
+ luck and have fun!
+DTEND:20260930T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260930T170000Z
+SEQUENCE:0
+SUMMARY:[EU] [Console] PlayStation NickEh30 Icon Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PSNickEh30_ZB_EU-S42_PSNickEh30_ZB_Qualifier_EU@fortnite
+ tracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PSNickEh30_ZB_EU?wind
+ ow=S42_PSNickEh30_ZB_Qualifier_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PSNickEh30_ZB_EU?window=S42_PSNickEh30_ZB_Final_EU\n\nDrop into th
+ e PlayStation NickEh30 Icon Cup! Compete for a chance to earn NickEh30 co
+ smetic rewards. The top players on the leaderboard (top 100 in all region
+ s) will then be seeded into the Finals where every player who earns a Vic
+ tory Royale in Finals will earn $1500 USD (in EU)\, $1000 USD (in NAC)\, 
+ $500 USD (in BR and NAW) and  $250 USD (in OCE\, ASIA and ME) - good luck
+  and have fun!
+DTEND:20261008T194000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261008T170000Z
+SEQUENCE:0
+SUMMARY:[EU] [Console] PlayStation NickEh30 Icon Cup Zero Build  Finals
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PSNickEh30_ZB_EU-S42_PSNickEh30_ZB_Final_EU@fortnitetrac
+ ker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PSNickEh30_ZB_EU?wind
+ ow=S42_PSNickEh30_ZB_Final_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PSNickEh30_EU?window=S42_PSNickEh30_Qualifier_EU\n\nDrop into the 
+ PlayStation NickEh30 Icon Cup! Compete for a chance to earn NickEh30 cosm
+ etic rewards. The top players on the leaderboard (top 100 in all regions)
+  will then be seeded into the Finals where every player who earns a Victo
+ ry Royale in Finals will earn $1500 USD (in EU)\, $1000 USD (in NAC)\, $5
+ 00 USD (in BR and NAW) and  $250 USD (in OCE\, ASIA and ME) - good luck a
+ nd have fun!
+DTEND:20260930T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260930T170000Z
+SEQUENCE:0
+SUMMARY:[EU] [Console] PlayStation NickEh30 Icon Cup Battle Royale  Sessio
+ n 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PSNickEh30_EU-S42_PSNickEh30_Qualifier_EU@fortnitetracke
+ r.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PSNickEh30_EU?window=
+ S42_PSNickEh30_Qualifier_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_PSNickEh30_EU?window=S42_PSNickEh30_Final_EU\n\nDrop into the Play
+ Station NickEh30 Icon Cup! Compete for a chance to earn NickEh30 cosmetic
+  rewards. The top players on the leaderboard (top 100 in all regions) wil
+ l then be seeded into the Finals where every player who earns a Victory R
+ oyale in Finals will earn $1500 USD (in EU)\, $1000 USD (in NAC)\, $500 U
+ SD (in BR and NAW) and  $250 USD (in OCE\, ASIA and ME) - good luck and h
+ ave fun!
+DTEND:20261007T194000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20261007T170000Z
+SEQUENCE:0
+SUMMARY:[EU] [Console] PlayStation NickEh30 Icon Cup Battle Royale  Finals
+TRANSP:TRANSPARENT
+UID:epicgames_S42_PSNickEh30_EU-S42_PSNickEh30_Final_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_PSNickEh30_EU?window=
+ S42_PSNickEh30_Final_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_MannekenPis_Official?window=MannekenPis_Day1\n\nThe road to glory lead
+ s to Antwerp. On September 26–27\, 2026\, the world’s top 50 duos will ga
+ ther in Belgium for the Fortnite FNCS Global Championship. After months o
+ f fierce competition\, the best teams from across the globe will face off
+  on LAN in 12 matches across two days\, battling for their share of the $
+ 2\,000\,000 USD prize pool. Every elimination matters. Every placement co
+ unts. Only one duo will leave as the 2026 FNCS Global Champions.
+DTEND:20260926T215959Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260925T220000Z
+SEQUENCE:0
+SUMMARY:[NA\,EU\,NAE\,NAW\,OCE\,BR\,ASIA\,ME\,NAC]  Fortnite Global Champi
+ onship   Day 1
+TRANSP:TRANSPARENT
+UID:epicgames_MannekenPis_Official-MannekenPis_Day1@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_MannekenPis_Official?wind
+ ow=MannekenPis_Day1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_MannekenPis_Official?window=MannekenPis_Day2\n\nThe road to glory lead
+ s to Antwerp. On September 26–27\, 2026\, the world’s top 50 duos will ga
+ ther in Belgium for the Fortnite FNCS Global Championship. After months o
+ f fierce competition\, the best teams from across the globe will face off
+  on LAN in 12 matches across two days\, battling for their share of the $
+ 2\,000\,000 USD prize pool. Every elimination matters. Every placement co
+ unts. Only one duo will leave as the 2026 FNCS Global Champions.
+DTEND:20260927T191559Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260926T220000Z
+SEQUENCE:0
+SUMMARY:[NA\,EU\,NAE\,NAW\,OCE\,BR\,ASIA\,ME\,NAC]  Fortnite Global Champi
+ onship   Day 2
+TRANSP:TRANSPARENT
+UID:epicgames_MannekenPis_Official-MannekenPis_Day2@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_MannekenPis_Official?wind
+ ow=MannekenPis_Day2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_Persona5Cup_EU?window=S42_Persona5Cup_EU\n\nTake their hearts! Com
+ pete for a chance to earn Persona 5 Royal cosmetic rewards. Good luck and
+  have fun!
+DTEND:20260925T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260925T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Override Series: Persona 5 Royal Cup Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_Persona5Cup_EU-S42_Persona5Cup_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_Persona5Cup_EU?window
+ =S42_Persona5Cup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_Persona5Cup_ZB_EU?window=S42_Persona5Cup_ZB_EU\n\nTake their heart
+ s! Compete for a chance to earn Persona 5 Royal cosmetic rewards. Good lu
+ ck and have fun!
+DTEND:20260925T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260925T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Override Series: Persona 5 Royal Cup Zero Build Reload  Sess
+ ion 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_Persona5Cup_ZB_EU-S42_Persona5Cup_ZB_EU@fortnitetracker.
+ com
+URL:https://fortnitetracker.com/events/epicgames_S42_Persona5Cup_ZB_EU?win
+ dow=S42_Persona5Cup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_Persona5Cup_Mobile_EU?window=S42_Persona5MobileCup_EU\n\nTake thei
+ r hearts! Compete for a chance to earn Persona 5 Royal cosmetic rewards. 
+ Good luck and have fun!
+DTEND:20260925T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260925T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Override Series: Persona 5 Royal Mobile Cup   Sessio
+ n 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_Persona5Cup_Mobile_EU-S42_Persona5MobileCup_EU@fortnitet
+ racker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_Persona5Cup_Mobile_EU
+ ?window=S42_Persona5MobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MadisonBeerIconCup_EU?window=S42_MadisonBeerIconCup_EU\n\nGet reck
+ less and make it yours! Duo up and compete for a chance to earn Madison B
+ eer cosmetic rewards. Good luck and have fun!
+DTEND:20260924T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260924T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Madison Beer Icon Cup Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MadisonBeerIconCup_EU-S42_MadisonBeerIconCup_EU@fortnite
+ tracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MadisonBeerIconCup_EU
+ ?window=S42_MadisonBeerIconCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MadisonBeerIconCup_ZB_EU?window=S42_MadisonBeerIconCup_ZB_EU\n\nGe
+ t reckless and make it yours! Duo up and compete for a chance to earn Mad
+ ison Beer cosmetic rewards. Good luck and have fun!
+DTEND:20260924T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260924T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Madison Beer Icon Cup Zero Build Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MadisonBeerIconCup_ZB_EU-S42_MadisonBeerIconCup_ZB_EU@fo
+ rtnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MadisonBeerIconCup_ZB
+ _EU?window=S42_MadisonBeerIconCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MadisonBeerIconCup_Mobile_EU?window=S42_MadisonBeerMobileCup_EU\n\
+ nGet reckless and make it yours! Compete for a chance to earn Madison Bee
+ r cosmetic rewards. Good luck and have fun!
+DTEND:20260924T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260924T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Madison Beer Icon Mobile Cup   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MadisonBeerIconCup_Mobile_EU-S42_MadisonBeerMobileCup_EU
+ @fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MadisonBeerIconCup_Mo
+ bile_EU?window=S42_MadisonBeerMobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ChampionFocusFNCSCup_EU?window=S42_ChampionFocusFNCSCup_EU\n\nStay
+  focused. Play like a champion. Compete in the Champion Focus FNCS Cup fo
+ r a chance to earn Champion Focus cosmetic rewards. Put your skills to th
+ e test and keep your sights on victory. Good luck and have fun!
+DTEND:20260920T160000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260920T130000Z
+SEQUENCE:0
+SUMMARY:[EU]  Champion Focus FNCS Cup Battle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ChampionFocusFNCSCup_EU-S42_ChampionFocusFNCSCup_EU@fort
+ nitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ChampionFocusFNCSCup_
+ EU?window=S42_ChampionFocusFNCSCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ChampionFocusFNCSCup_ZB_EU?window=S42_ChampionFocusFNCSCup_ZB_EU\n
+ \nStay focused. Play like a champion. Compete in the Champion Focus FNCS 
+ Cup for a chance to earn Champion Focus cosmetic rewards. Put your skills
+  to the test and keep your sights on victory. Good luck and have fun!
+DTEND:20260920T160000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260920T130000Z
+SEQUENCE:0
+SUMMARY:[EU]  Champion Focus FNCS Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ChampionFocusFNCSCup_ZB_EU-S42_ChampionFocusFNCSCup_ZB_E
+ U@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ChampionFocusFNCSCup_
+ ZB_EU?window=S42_ChampionFocusFNCSCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_ChampionFocusFNCSMobileCup_EU?window=S42_ChampionFocusFNCSMobileCu
+ p_EU\n\nStay focused. Play like a champion. Compete in the Champion Focus
+  FNCS Mobile Cup for a chance to earn Champion Focus cosmetic rewards. Pu
+ t your skills to the test and keep your sights on victory. Good luck and 
+ have fun!
+DTEND:20260920T131500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260920T120000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Champion Focus FNCS Mobile Cup   Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_ChampionFocusFNCSMobileCup_EU-S42_ChampionFocusFNCSMobil
+ eCup_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_ChampionFocusFNCSMobi
+ leCup_EU?window=S42_ChampionFocusFNCSMobileCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_CyperpranksCup_EU?window=S42_CyperpranksCup_EU\n\nKeep running on 
+ the edge. Chase the win. Team up as a trio and compete for a chance to ea
+ rn Cyberpunk: Edgerunners cosmetic rewards. Good luck and have fun!
+DTEND:20260919T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260919T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Override Series: Cyberpunk: Edgerunners Cup Battle Royale  S
+ ession 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_CyperpranksCup_EU-S42_CyperpranksCup_EU@fortnitetracker.
+ com
+URL:https://fortnitetracker.com/events/epicgames_S42_CyperpranksCup_EU?win
+ dow=S42_CyperpranksCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_CyperpranksCup_ZB_EU?window=S42_CyperpranksCup_ZB_EU\n\nKeep runni
+ ng on the edge. Chase the win. Team up as a trio and compete for a chance
+  to earn Cyberpunk: Edgerunners cosmetic rewards. Good luck and have fun!
+DTEND:20260919T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260919T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Override Series: Cyberpunk: Edgerunners Cup Zero Build  Sess
+ ion 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_CyperpranksCup_ZB_EU-S42_CyperpranksCup_ZB_EU@fortnitetr
+ acker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_CyperpranksCup_ZB_EU?
+ window=S42_CyperpranksCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_CyperpranksCup_Mobile_EU?window=S42_CyperpranksCup_Mobile_EU\n\nKe
+ ep running on the edge. Chase the win. Compete for a chance to earn Cyber
+ punk: Edgerunners cosmetic rewards. Good luck and have fun!
+DTEND:20260919T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260919T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Override Series: Cyberpunk: Edgerunners Mobile Cup B
+ attle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_CyperpranksCup_Mobile_EU-S42_CyperpranksCup_Mobile_EU@fo
+ rtnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_CyperpranksCup_Mobile
+ _EU?window=S42_CyperpranksCup_Mobile_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_KingdomHeartsCup_EU?window=S42_KingdomHeartsCup_EU\n\nMy friends a
+ re my power! Compete for a chance to earn KINGDOM HEARTS cosmetic rewards
+ . Good luck and have fun!
+DTEND:20260918T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260918T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Override Series: KINGDOM HEARTS Cup Battle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_KingdomHeartsCup_EU-S42_KingdomHeartsCup_EU@fortnitetrac
+ ker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_KingdomHeartsCup_EU?w
+ indow=S42_KingdomHeartsCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_KingdomHeartsCup_ZB_EU?window=S42_KingdomHeartsCup_ZB_EU\n\nMy fri
+ ends are my power! Compete for a chance to earn KINGDOM HEARTS cosmetic r
+ ewards. Good luck and have fun!
+DTEND:20260918T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260918T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Override Series: KINGDOM HEARTS Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_KingdomHeartsCup_ZB_EU-S42_KingdomHeartsCup_ZB_EU@fortni
+ tetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_KingdomHeartsCup_ZB_E
+ U?window=S42_KingdomHeartsCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_KingdomHeartsCup_Mobile_EU?window=S42_KingdomHeartsCup_Mobile_EU\n
+ \nMy friends are my power! Compete for a chance to earn KINGDOM HEARTS co
+ smetic rewards. Good luck and have fun!
+DTEND:20260918T171500Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260918T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Override Series: KINGDOM HEARTS Mobile Cup Battle Ro
+ yale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_KingdomHeartsCup_Mobile_EU-S42_KingdomHeartsCup_Mobile_E
+ U@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_KingdomHeartsCup_Mobi
+ le_EU?window=S42_KingdomHeartsCup_Mobile_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_IronmouseIconCup_EU?window=S42_IronmouseIconCup_EU\n\nJoin our pre
+ cious family! The iconic Ironmouse is joining the Icon Series! Duo up and
+  compete in the Ironmouse Icon Cup for a chance to win access to the Iron
+ mouse cosmetic rewards!
+DTEND:20260915T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260915T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Ironmouse Icon Cup Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_IronmouseIconCup_EU-S42_IronmouseIconCup_EU@fortnitetrac
+ ker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_IronmouseIconCup_EU?w
+ indow=S42_IronmouseIconCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_IronmouseIconCup_ZB_EU?window=S42_IronmouseIconCup_ZB_EU\n\nJoin o
+ ur precious family! The iconic Ironmouse is joining the Icon Series! Duo 
+ up and compete in the Ironmouse Icon Cup for a chance to win access to th
+ e Ironmouse cosmetic rewards!
+DTEND:20260915T193000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260915T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Ironmouse Icon Cup Zero Build Reload  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_IronmouseIconCup_ZB_EU-S42_IronmouseIconCup_ZB_EU@fortni
+ tetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_IronmouseIconCup_ZB_E
+ U?window=S42_IronmouseIconCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileSeriesCupSemiFinal_EU?window=S42_MobileSeriesCup_SemiFinal_E
+ U\n\nTo participate in the Fortnite Mobile Series\, players must use a mo
+ bile device only. The top 3 players from EU and NAC and top 2 from OCE\, 
+ ASIA\, ME\, BR\, NAW will earn their spot at the Fortnite Mobile Series F
+ inal LAN in Copenhagen\, Denmark! Good luck and have fun!
+DTEND:20260913T172000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260913T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Series Semifinal  Finals
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileSeriesCupSemiFinal_EU-S42_MobileSeriesCup_SemiFina
+ l_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileSeriesCupSemiFi
+ nal_EU?window=S42_MobileSeriesCup_SemiFinal_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_WeezyIconCup_EU?window=S42_WeezyIconCup_EU\n\nThe iconic Weezy is 
+ joining the Icon Series! Drop into Weezy Icon Cup for a chance to earn We
+ ezy Cosmetic Rewards!
+DTEND:20260912T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260912T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Weezy Icon Cup Battle Royale  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_WeezyIconCup_EU-S42_WeezyIconCup_EU@fortnitetracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_WeezyIconCup_EU?windo
+ w=S42_WeezyIconCup_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_WeezyIconCup_ZB_EU?window=S42_WeezyIconCup_ZB_EU\n\nThe iconic Wee
+ zy is joining the Icon Series! Drop into Weezy Icon Cup for a chance to e
+ arn Weezy Cosmetic Rewards!
+DTEND:20260912T200000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260912T170000Z
+SEQUENCE:0
+SUMMARY:[EU]  Weezy Icon Cup Zero Build  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_WeezyIconCup_ZB_EU-S42_WeezyIconCup_ZB_EU@fortnitetracke
+ r.com
+URL:https://fortnitetracker.com/events/epicgames_S42_WeezyIconCup_ZB_EU?wi
+ ndow=S42_WeezyIconCup_ZB_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileSeriesGroup2_EU?window=S42_MobileSeriesGroup2_EU\n\nTo parti
+ cipate in the Fortnite Mobile Series\, players must use a mobile device o
+ nly. The Group Stage consists of two groups. The top 8 players from each 
+ group will advance to the semifinals. Good luck and have fun!
+DTEND:20260912T172601Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260912T160601Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Series Group Stage  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileSeriesGroup2_EU-S42_MobileSeriesGroup2_EU@fortnite
+ tracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileSeriesGroup2_EU
+ ?window=S42_MobileSeriesGroup2_EU
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:View Leaderboards:\nhttps://fortnitetracker.com/events/epicgam
+ es_S42_MobileSeriesGroup1_EU?window=S42_MobileSeriesGroup1_EU\n\nTo parti
+ cipate in the Fortnite Mobile Series\, players must use a mobile device o
+ nly. The Group Stage consists of two groups. The top 8 players from each 
+ group will advance to the semifinals. Good luck and have fun!
+DTEND:20260912T172000Z
+DTSTAMP:20261025T012744Z
+DTSTART:20260912T160000Z
+SEQUENCE:0
+SUMMARY:[EU] [Mobile] Mobile Series Group Stage  Session 1
+TRANSP:TRANSPARENT
+UID:epicgames_S42_MobileSeriesGroup1_EU-S42_MobileSeriesGroup1_EU@fortnite
+ tracker.com
+URL:https://fortnitetracker.com/events/epicgames_S42_MobileSeriesGroup1_EU
+ ?window=S42_MobileSeriesGroup1_EU
+END:VEVENT
+END:VCALENDAR
