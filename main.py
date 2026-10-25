@@ -105,7 +105,7 @@ def send_discord(event):
                 }
             ],
             "footer": {
-                "text": "Grinder Grinders | Fortnite Cups"
+                "text": "Grinders | Fortnite Cups"
             }
         }]
     }
