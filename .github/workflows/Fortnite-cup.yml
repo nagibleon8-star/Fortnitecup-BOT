@@ -24,6 +24,7 @@ jobs:
       - name: Fortnite Cups pruefen
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          CITO_API_KEY: ${{ secrets.CITO_API_KEY }}
         run: python main.py
 
       - name: Gesendete Cups speichern
