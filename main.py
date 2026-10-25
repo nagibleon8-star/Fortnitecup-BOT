@@ -18,7 +18,7 @@ VIENNA = ZoneInfo("Europe/Vienna")
 def fetch_tournaments():
     params = urlencode({
         "region": "EU",
-        "status": "last 5",
+        "status": "5",
         "limit": 100
     })
 
